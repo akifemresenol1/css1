@@ -1,0 +1,28 @@
+.text-red {
+    color: red;
+
+}
+
+.fs-14 {font-size: 14px;
+
+}
+
+.fs-25 { font-size: 25px;
+
+}
+
+.fs-35 { font-size: 35px;
+
+}
+
+li:nth-child(odd) {
+    color: violet;
+}
+
+li:nth-child(even) {
+    color: aqua;
+}
+ li:nth-child(3n) {
+    color: brown;
+ }
+ 
